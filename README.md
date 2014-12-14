@@ -1,6 +1,5 @@
-da-toolbox
-==========
+#da-toolbox
 
-Data Analytics repo
 
+##About 
 This Repository is created as part of Data Analytics Toolbox training @ Coursera. 
